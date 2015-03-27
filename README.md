@@ -10,4 +10,9 @@ _____________________
       
       -Agregado visor de cambios de las
       versiones
+      
+      -Desactivación botón de actualizacion
+      cuando no hay actualización.
+      
+      -Separación de label con botón
 _____________________
