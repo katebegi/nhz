@@ -5,7 +5,9 @@ _____________________
 
   versión Merengue: 6.0
   
-      -Agregadas actualizaciones, desde apk. Independendientemente de Playstore.
+      -Agregadas actualizaciones, desde apk.
+      Independendientemente de Playstore.
       
-      -Agregado visor de cambios de las versiones
+      -Agregado visor de cambios de las
+      versiones
 _____________________
