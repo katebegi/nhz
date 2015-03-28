@@ -1,14 +1,16 @@
 Actualizaciones Navegador Hero Zero by Katebegi (c)2015
-versión Merengue: 6.0
+
 _____________________
 
 28-03-2015
-
+Versión Merengue: 6.3
   -Desde hoy se puede ver las
-  actualizaciones del navegador.
+  actualizaciones del navegador
 _____________________
 
 27-03-2015
+
+versión Merengue: 6.0
 
   -Agregadas actualizaciones, desde apk.
   Independendientemente de Playstore.
