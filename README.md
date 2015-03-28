@@ -4,8 +4,8 @@ _____________________
 
 28-03-2015
 
-  -Desde hoy se puede ver las actualizaciones
-  del navegador.
+  -Desde hoy se puede ver las
+  actualizaciones del navegador.
 _____________________
 
 27-03-2015
