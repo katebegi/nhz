@@ -3,6 +3,7 @@ versión Merengue: 6.0
 _____________________
 
 28-03-2015
+
   -Desde hoy se puede ver las actualizaciones
   del navegador.
 _____________________
