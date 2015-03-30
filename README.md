@@ -1,5 +1,16 @@
 Actualizaciones Navegador Hero Zero 
         by Katebegi (c)2015
+        
+30-03-2015A
+
+Versión Merengue: 6.6
+
+  -Las notificaciones de misiones y 
+  entrenas te avisa por una vibración
+  de 2 seg.
+  -Nuevo icono multitarea. Para futuras
+  herramientas del Navegador HZ
+____________________
 
 30-03-2015
 
