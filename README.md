@@ -7,7 +7,7 @@ Versión Merengue: 6.6
 
   -Las notificaciones de misiones y 
   entrenas te avisa por una vibración
-  de 2 seg.
+  de 2 seg, cuando acaba.
   -Nuevo icono multitarea. Para futuras
   herramientas del Navegador HZ
 ____________________
