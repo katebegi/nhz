@@ -1,18 +1,22 @@
-Actualizaciones Navegador Hero Zero by Katebegi (c)2015
+Actualizaciones Navegador Hero Zero 
+        by Katebegi (c)2015
 
 30-03-2015
 
 Versión Merengue: 6.5
 
-  -Agregado centro de notificaciones de Hero Zero
-  -Corregido sms de que no hay actualizaciones
+  -Agregado centro de notificaciones
+  de Hero Zero
+  -Corregido sms de que no hay
+  actualizaciones
 ____________________
 
 29-03-2015
 
 Versión Merengue: 6.4
 
-  -Visualización correcta de pag. actualizaciones
+  -Visualización correcta de pag.
+  actualizaciones
 _____________________
 
 28-03-2015
