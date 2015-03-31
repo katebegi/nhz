@@ -1,6 +1,17 @@
 Actualizaciones Navegador Hero Zero 
         by Katebegi (c)2015
         
+31-03-2015
+
+Versión Merengue: 6.7
+
+  -Desde ahora borra cache del juego cuando
+  inicia. Asi arreglo errores cuando se 
+  actualiza y no ocupa memoria.
+  -Arreglado visualización de las 
+  notificaciones.
+____________________    
+
 30-03-2015A
 
 Versión Merengue: 6.6
