@@ -1,5 +1,5 @@
-Actualizaciones Navegador Hero Zero 
-        by Katebegi (c)2015
+  Actualizaciones Navegador Hero Zero 
+         by Katebegi (c)2015
         
 01-03-2015
 
