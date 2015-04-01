@@ -1,7 +1,7 @@
 Actualizaciones Navegador Hero Zero 
         by Katebegi (c)2015
         
-31-03-2015
+01-03-2015
 
 Versión Merengue: 6.7
 
@@ -10,6 +10,7 @@ Versión Merengue: 6.7
   actualiza y no ocupa memoria.
   -Arreglado visualización de las 
   notificaciones.
+  -He rebajado de momento a 1 seg. la vibracion de las notificaciones.
 ____________________    
 
 30-03-2015A
