@@ -10,7 +10,7 @@ Versión Merengue: 6.7
   actualiza y no ocupa memoria.
   -Arreglado visualización de las 
   notificaciones.
-  -He rebajado de momento a 1 seg. la 
+  -He eliminado de momento la 
   vibracion de las notificaciones.
 ____________________    
 
