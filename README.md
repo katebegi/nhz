@@ -1,7 +1,14 @@
   Actualizaciones Navegador Hero Zero 
          by Katebegi (c)2015
         
-01-03-2015
+        03-04-2015
+
+Versión Merengue: 6.8
+
+  -Agregadas notas
+____________________    
+
+01-04-2015
 
 Versión Merengue: 6.7
 
