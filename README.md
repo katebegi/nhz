@@ -1,4 +1,4 @@
-  Actualizaciones Navegador Hero Zero 
+  Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
         
 03-04-2015
@@ -6,6 +6,7 @@
 Versión Merengue: 6.8
 
   -Agregadas notas
+  -Cambio de nombre a Multiverso Hero Zero
 ____________________    
 
 01-04-2015
