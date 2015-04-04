@@ -1,6 +1,15 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
         
+04-04-2015
+
+Versión Merengue: 6.9
+
+  -Agregado lista negra
+  -si clickeas un link en el Multiverso 
+  Hero Zero, saldra un boton para volver
+____________________ 
+
 03-04-2015
 
 Versión Merengue: 6.8
