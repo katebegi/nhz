@@ -1,6 +1,16 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
-        
+               
+04-04-2015
+
+Versión Gominola: 7.0
+
+  -Botón atras del telefono lo he desactivado
+  -limpieza código
+  -nuevo diseño por iconos
+  (Muy pronto servicio de notificaciones cuando la app esta cerrada) 
+____________________ 
+ 
 04-04-2015
 
 Versión Merengue: 6.9
