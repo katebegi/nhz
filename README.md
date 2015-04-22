@@ -6,6 +6,8 @@ Versión Gominola: 7.2
 
   -Quitado servicio de notificaciones
   (MUCHOS PROBLEMAS)
+  -Ahora desde notificaciones haciendo click
+  vas al mundo que has clickado
 ____________________ 
                
 15-04-2015
