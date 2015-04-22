@@ -1,5 +1,12 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
+22-04-2015
+
+Versión Gominola: 7.2
+
+  -Quitado servicio de notificaciones
+  (MUCHOS PROBLEMAS)
+____________________ 
                
 15-04-2015
 
