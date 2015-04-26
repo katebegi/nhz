@@ -5,7 +5,8 @@
 
 Versión Gominola: 7.3
 
-  -Arreglado posible bug. Hacia que la app se pudiese reiniciar.
+  -Arreglado posible bug. Hacia que la app
+  se pudiese reiniciar.
 ____________________          
 22-04-2015
 
