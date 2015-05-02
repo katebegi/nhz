@@ -1,6 +1,12 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
 
+02-05-2015
+
+Versión Gominola: 7.4
+
+  -Agregada barra notificaciones
+____________________   
 26-04-2015
 
 Versión Gominola: 7.3
