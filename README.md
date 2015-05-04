@@ -1,6 +1,12 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
 
+04-05-2015
+
+Versión Gominola: 7.5
+
+  -Agregado nivel bateria
+____________________ 
 02-05-2015
 
 Versión Gominola: 7.4
