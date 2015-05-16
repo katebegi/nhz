@@ -1,11 +1,22 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
 
+16-05-2015
+
+Versión Gominola: 7.6
+
+  -Casi todo el material Designer
+  -Agregado icono de configuración 
+  de pantalla (horizontal/ vertical)
+  -Cambiado a icono el botón de 
+  salir del programa
+____________________ 
 04-05-2015
 
 Versión Gominola: 7.5
 
   -Agregado nivel bateria
+  -Agregado reloj
 ____________________ 
 02-05-2015
 
