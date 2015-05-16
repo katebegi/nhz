@@ -10,7 +10,8 @@ Versión Gominola: 7.6
   de pantalla (horizontal/ vertical)
   esta en modo disabled.
   -Cambiado a icono el botón de 
-  salir del programa
+  salir del programam, atras de pantalla
+  y descargar actualización
 ____________________ 
 04-05-2015
 
