@@ -6,8 +6,9 @@
 Versión Gominola: 7.6
 
   -Casi todo el material Designer
-  -Agregado icono de configuración 
+  -Agregado solo icono de configuración 
   de pantalla (horizontal/ vertical)
+  esta en modo disabled.
   -Cambiado a icono el botón de 
   salir del programa
 ____________________ 
