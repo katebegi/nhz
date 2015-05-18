@@ -8,6 +8,8 @@ Versión Gominola: 7.7
   -Agregado foro
   -Agregado Navegador web
   -Cambiado varios iconos
+  -agregado menu de salida de la app 
+  cuando ticas atras de tu propio teléfono
   -Limpieza en general de código
   ____________________ 
 16-05-2015
