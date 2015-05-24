@@ -1,6 +1,14 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
 
+124-05-2015
+
+Versión Gominola: 7.9
+
+  -Modificado navegador e insertado
+  panel con buttons de acceso directo
+  -redirigido foro en navegador
+  ____________________ 
 18-05-2015A
 
 Versión Gominola: 7.8
@@ -11,7 +19,8 @@ Versión Gominola: 7.8
   -agregado menu de salida de la app 
   cuando ticas atras de tu propio teléfono
   -Limpieza en general de código
-  -Funcional el vertical/ horizontal de la pantalla
+  -Funcional el vertical/ horizontal 
+  de la pantalla
   ____________________ 
 16-05-2015
 
