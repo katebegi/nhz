@@ -1,7 +1,15 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
 
-124-05-2015
+26-05-2015
+
+Versión Tekila: 8.0
+
+  -Agregado envio de fallos y encuesta 
+  de la app, en donde lo new de las
+  actualizaciones.
+  ____________________ 
+24-05-2015
 
 Versión Gominola: 7.9
 
