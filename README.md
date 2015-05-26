@@ -16,7 +16,7 @@ Versión Gominola: 7.9
 
   -Modificado navegador e insertado
   panel con buttons de acceso directo
-  -redirigido foro en navegador
+  -Redirigido el foro al navegador
   ____________________ 
 18-05-2015A
 
