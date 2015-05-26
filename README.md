@@ -8,6 +8,7 @@ Versión Tekila: 8.0
   -Agregado envio de fallos y encuesta 
   de la app, en donde lo new de las
   actualizaciones.
+  -Modificado el horizontal del movil
   ____________________ 
 24-05-2015
 
