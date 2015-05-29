@@ -1,6 +1,14 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
 
+28-05-2015
+
+Versión Tekila: 8.1
+
+  -Arreglado bug de las encuestas
+  -Cambiado color botón de encuesta
+  -Agregado Zoom en el juego, disabled
+  ____________________ 
 26-05-2015
 
 Versión Tekila: 8.0
