@@ -3,7 +3,7 @@
          
 11-08-2015
 
-Versión Tekila: 9.0
+Versión Escarlata: 9.0
 
   -Insertado botón de Hero Zero test(BETA)
   -Quitadas encuestas
