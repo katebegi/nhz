@@ -1,6 +1,13 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
+         
+11-08-2015
 
+Versión Tekila: 9.0
+
+  -Insertado botón de Hero Zero test(BETA)
+  -Quitadas encuestas
+  ____________________ 
 28-05-2015
 
 Versión Tekila: 8.1
