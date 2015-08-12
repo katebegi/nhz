@@ -8,13 +8,13 @@ Versión Escarlata: 9.1
 
   -Arreglados errores botón test mobile hero zero
   -Posicionado botón Thz
-  -Ahora guarda ttoglebutton
+  -Ahora guarda toglebutton
   ____________________ 
 11-08-2015
 
 Versión Escarlata: 9.0
 
-  -Insertado botón de Hero Zero test(BETA)
+  -Insertado botón de test mobile hero zero(BETA)
   -Quitadas encuestas
   ____________________ 
 28-05-2015
