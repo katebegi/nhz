@@ -1,6 +1,15 @@
   Actualizaciones Multiverso Hero Zero 
          by Katebegi (c)2015
          
+         
+12-08-2015
+
+Versión Escarlata: 9.1
+
+  -Arreglados errores botón test mobile hero zero
+  -Posicionado botón Thz
+  -Ahora guarda ttoglebutton
+  ____________________ 
 11-08-2015
 
 Versión Escarlata: 9.0
