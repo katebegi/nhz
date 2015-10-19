@@ -2,6 +2,12 @@
          by Katebegi (c)2015
          
          
+ 19-10-2015
+
+Versión Escarlata: 9.2
+
+  -Arreglado bug de actualización falsa. Por problemas de conectividad del móvil.
+  ____________________         
 12-08-2015
 
 Versión Escarlata: 9.1
