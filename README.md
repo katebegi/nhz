@@ -6,7 +6,8 @@
 
 Versión Escarlata: 9.2
 
-  -Arreglado bug de actualización falsa. Por problemas de conectividad del móvil.
+  -Arreglado bug de actualización falsa. Por 
+  problemas de conectividad del móvil.
   ____________________         
 12-08-2015
 
