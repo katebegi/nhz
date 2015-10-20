@@ -10,6 +10,7 @@ Versión Escarlata: 9.3
   problemas de conectividad del móvil.
   -Arreglado fallo de flecha hacia atras cuando 
   ibas a otra pagina web (Ahora la muestra)
+  -Insertando widget(poco a poco)
   ____________________         
 12-08-2015
 
