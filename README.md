@@ -2,12 +2,14 @@
          by Katebegi (c)2015
          
          
- 19-10-2015
+ 20-10-2015
 
-Versión Escarlata: 9.2
+Versión Escarlata: 9.3
 
   -Arreglado bug de actualización falsa. Por 
   problemas de conectividad del móvil.
+  -Arreglado fallo de flecha hacia atras cuando 
+  ibas a otra pagina web (Ahora la muestra)
   ____________________         
 12-08-2015
 
