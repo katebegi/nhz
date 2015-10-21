@@ -2,6 +2,13 @@
          by Katebegi (c)2015
          
          
+ 21-10-2015
+
+Versión DeLorian: 9.4
+
+  -Agregado reloj widget con el cuerpo
+  serrano de su creador.
+  ____________________         
  20-10-2015
 
 Versión Escarlata: 9.3
