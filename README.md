@@ -8,6 +8,7 @@ Versión DeLorian: 9.5
 
   -Reloj widget ahora tiene dos accesos directos: 
   la imagen vas a la app y lo demas al reloj
+  -El widget solo es funcional para Android desde 4.4 
   ____________________  
  21-10-2015
 
